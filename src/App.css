@@ -1,0 +1,60 @@
+#root {
+  max-width: 100vw;
+  margin: 0 auto;
+  padding-top: 5%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+html {
+  background-color: #f1f5f9;
+}
+
+h1, 
+div{
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+h2{
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+h3{
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: red;
+}
+
+h4{
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+p{
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+button {
+  background-color: #1d4ed8;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  border: none;
+  font-size: 1rem;
+}
+
+ul,
+li{
+  text-align: left;
+  font-size: 1rem;
+}
+
+.lista{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
